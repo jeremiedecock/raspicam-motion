@@ -13,6 +13,10 @@ TODO...
 
 Run the `install_and_configure_raspicam_motion.sh` script as root.
 
+## CAD files
+
+https://github.com/jdhp-misc/cad-raspicam
+
 ## License
 
 Raspicam-motion is distributed under the [MIT License](http://opensource.org/licenses/MIT).
