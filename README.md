@@ -13,16 +13,6 @@ TODO...
 
 Run the `install_and_configure_raspicam_motion.sh` script as root.
 
-## Run
-
-To start/stop/restart raspicam service:
-
-```
-invoke-rc.d raspicam-motion start
-invoke-rc.d raspicam-motion stop
-invoke-rc.d raspicam-motion restart
-```
-
 ## License
 
 Raspicam-motion is distributed under the [MIT License](http://opensource.org/licenses/MIT).
